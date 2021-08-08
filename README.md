@@ -1,1 +1,2 @@
-# pendulam-template
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
